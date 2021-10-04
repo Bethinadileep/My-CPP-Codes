@@ -1,2 +1,2 @@
-# MyC-Codes
+# MyC++ Codes
 cpp programming 
